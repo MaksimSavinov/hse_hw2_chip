@@ -1,5 +1,5 @@
 # hse_hw2_chip
-## Ссылка на google collab 
+## Ссылка на google collab https://colab.research.google.com/drive/1efdz8ZfEuY15-Bj5etkx01E-NuiAPkX0?usp=sharing
 ## Была выбрана клеточная линия MCF-7, гистоновая метка H3K9me3, 
 ## FastQC 
 ### ENCFF656BIN
